@@ -1,1 +1,2 @@
 # intel_github
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Han+Sans&pause=1000&random=false&width=435&lines=%EA%B9%83%ED%97%88%EB%B8%8C+%ED%85%8C%EC%8A%A4%ED%8A%B8+%ED%8C%8C%EC%9D%BC%EC%9E%85%EB%8B%88%EB%8B%A4!;!%ED%95%B4%EB%8B%B9+%ED%8C%8C%EC%9D%BC%EC%97%90+%EB%82%B4%EC%9A%A9%EC%9D%B4+%EC%B6%94%EA%B0%80%EB%90%A0+%EC%88%98+%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
