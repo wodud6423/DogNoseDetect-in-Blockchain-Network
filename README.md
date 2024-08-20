@@ -7,23 +7,6 @@
 <!--프로젝트 버튼-->
  [![Readme in English][readme-eng-shield]][readme-eng-url] [![View Demo][view-demo-shield]][view-demo-url] [![Report bug][report-bug-shield]][report-bug-url] [![Request feature][request-feature-shield]][request-feature-url]
 
-<!--목차-->
-# Table of Contents
-- [[1] About the Project](#1-about-the-project)
-  - [Features](#features)
-  - [Technologies](#technologies)
-- [[2] Getting Started](#2-getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Configuration](#configuration)
-- [[3] Usage](#3-usage)
-- [[4] Contribution](#4-contribution)
-- [[5] Acknowledgement](#5-acknowledgement)
-- [[6] Contact](#6-contact)
-- [[7] License](#7-license)
-
-
-
 # [1] About the Project
 ## 🦮블록체인을 이용한 분산형 DB로부터의 강아지 비문 조회 서비스
 
@@ -80,7 +63,7 @@
 ### 분산 처리: 
 - 분산형 데이터베이스 구조를 통해 네트워크 처리 속도를 개선하여 효율적인 데이터 관리가 가능합니다.
 
-## Technologies
+## 2. Technologies Stack
 
 ![Project Title](img/기술스택사진.png)
 
@@ -88,7 +71,7 @@
 - [AWS EC2](https://aws.amazon.com/ko/pm/ec2/?gclid=Cj0KCQjw2ou2BhCCARIsANAwM2Fvl1JEgLF-nt9pi6LoAAjTDbIZtSxlKan5_r2ELY6JUkk748ac8A0aAvxpEALw_wcB&trk=4c74fd91-5632-4f18-ac76-a6c66c92e185&sc_channel=ps&ef_id=Cj0KCQjw2ou2BhCCARIsANAwM2Fvl1JEgLF-nt9pi6LoAAjTDbIZtSxlKan5_r2ELY6JUkk748ac8A0aAvxpEALw_wcB:G:s&s_kwcid=AL!4422!3!477203497843!e!!g!!aws%20ec2!11549843702!111422708806) 
 - [Android Studio](https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjw2ou2BhCCARIsANAwM2ElJwpX8AmXHdmDqeFXJeiNQMz6gyhSunPf7V0LzFr2tV11ZdIBClkaArGyEALw_wcB&gclsrc=aw.ds&hl=ko) 
 - [Dlib](https://dlib.net/)
-# [3] Usage
+# 3. Project Process
 
 ## 🦮비문 영상 처리부
 ![Project Title](img/비문영상처리설명01.png)
@@ -120,42 +103,6 @@
 ```
 
 
-# [5] Acknowledgement
-
-- [Readme Template - Embedded Artistry](https://embeddedartistry.com/blog/2017/11/30/embedded-artistry-readme-template/)
-- [How to write a kickass Readme - James.Scott](https://dev.to/scottydocs/how-to-write-a-kickass-readme-5af9)
-- [Best-README-Template - othneildrew]([https://github.com/othneildrew/Best-README-Template#prerequisites](https://github.com/vivalahm/Blockchain-based-payment-system))
-- [Img Shields](https://shields.io/)
-- [Github Pages](https://pages.github.com/)
-
-
-
-# [6] Contact
+# Contact
 - 📧 wodud6423@kau.kr
-- 📋 [https://dev-ujin.github.io/contact](https://dev-ujin.github.io/contact)
 
-
-
-# [7] License
-
-
-
-
-<!--Url for Badges-->
-[license-shield]: https://img.shields.io/github/license/dev-ujin/readme-template?labelColor=D8D8D8&color=04B4AE
-[repository-size-shield]: https://img.shields.io/github/repo-size/dev-ujin/readme-template?labelColor=D8D8D8&color=BE81F7
-[issue-closed-shield]: https://img.shields.io/github/issues-closed/dev-ujin/readme-template?labelColor=D8D8D8&color=FE9A2E
-
-<!--Url for Buttons-->
-[readme-eng-shield]: https://img.shields.io/badge/-readme%20in%20english-2E2E2E?style=for-the-badge
-[view-demo-shield]: https://img.shields.io/badge/-%F0%9F%98%8E%20view%20demo-F3F781?style=for-the-badge
-[view-demo-url]: https://dev-ujin.github.io
-[report-bug-shield]: https://img.shields.io/badge/-%F0%9F%90%9E%20report%20bug-F5A9A9?style=for-the-badge
-[report-bug-url]: https://github.com/dev-ujin/readme-template/issues
-[request-feature-shield]: https://img.shields.io/badge/-%E2%9C%A8%20request%20feature-A9D0F5?style=for-the-badge
-[request-feature-url]: https://github.com/dev-ujin/readme-template/issues
-
-<!--URLS-->
-[license-url]: LICENSE.md
-[contribution-url]: CONTRIBUTION.md
-[readme-eng-url]: ../README.md
