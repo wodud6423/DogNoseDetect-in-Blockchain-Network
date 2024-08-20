@@ -35,7 +35,7 @@
 - 
 ![Project Title](img/선정이유사진01.png)
 
-<연간 유기 및 유실 동물 개체수 증가 추이!>
+<연간 유기 및 유실 동물 개체수 증가 추이>
 
 ![Project Title](img/선정이유사진02.png)
 
@@ -79,29 +79,16 @@
 ### 보안성과 투명성
 - 블록체인을 이용하여 데이터의 보안성과 투명성을 높이고, 이를 통해 반려동물의 개체 식별과 추적을 보다 안전하게 관리할 수 있습니다.
 
-### 분산 처리: 분산형 데이터베이스 구조를 통해 네트워크 처리 속도를 개선하여 효율적인 데이터 관리가 가능합니다.
+### 분산 처리: 
+- 분산형 데이터베이스 구조를 통해 네트워크 처리 속도를 개선하여 효율적인 데이터 관리가 가능합니다.
 
 ## Technologies
 
 ![Project Title](img/기술스택사진.png)
 
-- [Maven](https://maven.apache.org/) 3.6.3
-- [MySQL](https://www.mysql.com/) 8.0
-- [Spring](https://spring.io/) 2.4.3
-
-
-
-# [2] Getting Started
-*만약 운영체제에 따라 프로그램을 다르게 동작시켜야한다면, 운영체제별로 동작 방법을 설명하세요*
-
-## Prerequisites
-*프로젝트를 동작시키기 위해 필요한 소프트웨어와 라이브러리를 나열하고 어떻게 다운받을 수 있는지 설명하세요.*
-
-- [OpenWeather API key](https://openweathermap.org/) (무료)
-- npm
-```bash
-npm install npm@latest -g
-```
+- [FLASK](https://flask.palletsprojects.com/en/3.0.x/)
+- [AWS EC2](https://aws.amazon.com/ko/pm/ec2/?gclid=Cj0KCQjw2ou2BhCCARIsANAwM2Fvl1JEgLF-nt9pi6LoAAjTDbIZtSxlKan5_r2ELY6JUkk748ac8A0aAvxpEALw_wcB&trk=4c74fd91-5632-4f18-ac76-a6c66c92e185&sc_channel=ps&ef_id=Cj0KCQjw2ou2BhCCARIsANAwM2Fvl1JEgLF-nt9pi6LoAAjTDbIZtSxlKan5_r2ELY6JUkk748ac8A0aAvxpEALw_wcB:G:s&s_kwcid=AL!4422!3!477203497843!e!!g!!aws%20ec2!11549843702!111422708806) 
+- [Android Studio](https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjw2ou2BhCCARIsANAwM2ElJwpX8AmXHdmDqeFXJeiNQMz6gyhSunPf7V0LzFr2tV11ZdIBClkaArGyEALw_wcB&gclsrc=aw.ds&hl=ko) 
 
 ## Installation
 *어떻게 이 프로젝트의 소스코드를 다운받을 수 있는지 설명하세요.*
@@ -109,37 +96,17 @@ npm install npm@latest -g
 ```bash
 git clone https://github.com/your-username/project-repository
 ```
-2. NPM packages 설치
-```bash
-npm install
-```
-
-## Configuration
-*코드의 어느 부분을 채우거나 수정해야하는지 설명하세요.*
-- `config.js`에 Openweather API key를 입력
-```bash
-const API_KEY = "<Your API key>";
-```
-
 
 
 # [3] Usage
 ***스크린샷, 코드** 등을 통해 **사용 방법**과 **사용 예제**를 보여주세요. 사용 예제별로 h2 헤더로 나누어 설명할 수 있습니다.*
 
-![usage](img/usage.png)
+
+
 
 ```java
 // 몇 개의 API 사용 예제를 코드와 함께 보여주세요.
 ```
-
-
-
-# [4] Contribution
-기여해주신 모든 분들께 대단히 감사드립니다.[`contributing guide`][contribution-url]를 참고해주세요.
-이 프로젝트의 기여하신 분들을 소개합니다! 🙆‍♀️
-*이모티콘 쓰는 것을 좋아한다면, 버그 수정에 🐞, 아이디어 제공에 💡, 새로운 기능 구현에 ✨를 사용할 수 있습니다.*
-- 🐞 [dev-ujin](https://github.com/dev-ujin): 메인페이지 버그 수정
-
 
 
 # [5] Acknowledgement
