@@ -103,6 +103,12 @@
 
 ![Project Title](img/블록체인구현설명02.png)
 
+![Project Title](img/블록체인구현설명03.png)
+
+![Project Title](img/블록체인구현설명04.png)
+
+![Project Title](img/블록체인구현설명05.png)
+
 
 ## 📱어플리케이션 구현
 ![Project Title](img/어플리케이션설명01.png)
@@ -115,25 +121,23 @@
 
 
 # [5] Acknowledgement
-***유사한 프로젝트의 레포지토리** 혹은 **블로그 포스트** 등 프로젝트 구현에 영감을 준 출처에 대해 링크를 나열하세요.*
 
 - [Readme Template - Embedded Artistry](https://embeddedartistry.com/blog/2017/11/30/embedded-artistry-readme-template/)
 - [How to write a kickass Readme - James.Scott](https://dev.to/scottydocs/how-to-write-a-kickass-readme-5af9)
-- [Best-README-Template - othneildrew](https://github.com/othneildrew/Best-README-Template#prerequisites)
+- [Best-README-Template - othneildrew]([https://github.com/othneildrew/Best-README-Template#prerequisites](https://github.com/vivalahm/Blockchain-based-payment-system))
 - [Img Shields](https://shields.io/)
 - [Github Pages](https://pages.github.com/)
 
 
 
 # [6] Contact
-- 📧 dev.ujin518@gmail.com
+- 📧 wodud6423@kau.kr
 - 📋 [https://dev-ujin.github.io/contact](https://dev-ujin.github.io/contact)
 
 
 
 # [7] License
-MIT 라이센스
-라이센스에 대한 정보는 [`LICENSE`][license-url]에 있습니다.
+
 
 
 
