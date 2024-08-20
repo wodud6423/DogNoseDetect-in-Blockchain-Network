@@ -4,8 +4,9 @@
 <!--프로젝트 대문 이미지-->
 ![Project Title](img/projecttitle.png)
 
-# [1] About the Project
 ## 🦮블록체인을 이용한 분산형 DB로부터의 강아지 비문 조회 서비스
+
+
 
 # 1. 🧭Research background and necessity
 
