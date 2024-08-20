@@ -68,7 +68,7 @@
 
 - 차정은 : 사용자 어플리케이션 구현(Kotlin),발표 자료 제작, 디버깅
 
-# 3. Technologies Stack
+# 3. 📊Technologies Stack
 
 ![Project Title](img/기술스택사진.png)
 
