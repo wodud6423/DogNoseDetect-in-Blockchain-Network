@@ -7,7 +7,7 @@
 # [1] About the Project
 ## 🦮블록체인을 이용한 분산형 DB로부터의 강아지 비문 조회 서비스
 
-### 1. 연구 배경 및 필요성🐕‍🦺
+# 1. 🧭Research background and necessity
 
 - 반려동물 시장 성장: 한국농촌경제연구원에 따르면, 2015년 1조 9천억 원 규모였던 국내 반려동물 시장이 2023년에는 4조 5,786억 원에 이르렀고, 2027년에는 6조 원 규모까지 성장할 것으로 전망됩니다.
 
@@ -60,7 +60,15 @@
 ### 분산 처리: 
 - 분산형 데이터베이스 구조를 통해 네트워크 처리 속도를 개선하여 효율적인 데이터 관리가 가능합니다.
 
-## 2. Technologies Stack
+# 4. 🌝Project Team
+
+- 염재영(Team leader) : 블록체인 네트워크 구조 구현(Python), 시스템 아키텍처 설계, 발표, 디버깅
+
+- 유새빈 : 비문 특징 추출 영상처리 구현(Python), 발표 시연 자료 제공, 디버깅
+
+- 차정은 : 사용자 어플리케이션 구현(Kotlin),발표 자료 제작, 디버깅
+
+# 3. Technologies Stack
 
 ![Project Title](img/기술스택사진.png)
 
@@ -68,7 +76,7 @@
 - [AWS EC2](https://aws.amazon.com/ko/pm/ec2/?gclid=Cj0KCQjw2ou2BhCCARIsANAwM2Fvl1JEgLF-nt9pi6LoAAjTDbIZtSxlKan5_r2ELY6JUkk748ac8A0aAvxpEALw_wcB&trk=4c74fd91-5632-4f18-ac76-a6c66c92e185&sc_channel=ps&ef_id=Cj0KCQjw2ou2BhCCARIsANAwM2Fvl1JEgLF-nt9pi6LoAAjTDbIZtSxlKan5_r2ELY6JUkk748ac8A0aAvxpEALw_wcB:G:s&s_kwcid=AL!4422!3!477203497843!e!!g!!aws%20ec2!11549843702!111422708806) 
 - [Android Studio](https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjw2ou2BhCCARIsANAwM2ElJwpX8AmXHdmDqeFXJeiNQMz6gyhSunPf7V0LzFr2tV11ZdIBClkaArGyEALw_wcB&gclsrc=aw.ds&hl=ko) 
 - [Dlib](https://dlib.net/)
-# 3. Project Process
+# 4. Project Process
 
 ## 🦮비문 영상 처리부
 ![Project Title](img/비문영상처리설명01.png)
@@ -98,7 +106,6 @@
 ![Project Title](img/어플리케이션설명03.png)
 
 ![Project Title](img/어플리케이션설명04.png)
-
 
 
 # Contact
