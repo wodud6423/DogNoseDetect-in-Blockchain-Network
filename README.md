@@ -91,18 +91,28 @@
 - [Android Studio](https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjw2ou2BhCCARIsANAwM2ElJwpX8AmXHdmDqeFXJeiNQMz6gyhSunPf7V0LzFr2tV11ZdIBClkaArGyEALw_wcB&gclsrc=aw.ds&hl=ko) 
 
 ## Installation
-*어떻게 이 프로젝트의 소스코드를 다운받을 수 있는지 설명하세요.*
-1. Repository 클론
-```bash
-git clone https://github.com/your-username/project-repository
-```
+
 
 
 # [3] Usage
 ***스크린샷, 코드** 등을 통해 **사용 방법**과 **사용 예제**를 보여주세요. 사용 예제별로 h2 헤더로 나누어 설명할 수 있습니다.*
 
+## 🦮비문 영상 처리부
+![Project Title](img/비문영상처리설명01.png)
+
+![Project Title](img/비문영상처리설명02.png)
 
 
+## 🚪블록 체인 구현부 
+![Project Title](img/블록체인구현설명01.png)
+
+![Project Title](img/블록체인구현설명02.png)
+
+
+## 📱어플리케이션 구현
+![Project Title](img/어플리케이션설명01.png)
+
+![Project Title](img/어플리케이션설명02.png)
 
 ```java
 // 몇 개의 API 사용 예제를 코드와 함께 보여주세요.
