@@ -107,7 +107,9 @@
 
 ![Project Title](img/블록체인구현설명04.png)
 
-![Project Title](img/블록체인구현설명05.png)
+![Project Title](img/블록체인구조설명01.png)
+
+(블록체인 블록 구조)
 
 
 ## 📱어플리케이션 구현
