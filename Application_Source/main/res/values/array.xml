@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="register_type">
+        <item>일반사용자</item>
+        <item>펫샵</item>
+        <item>서버관리자</item>
+    </string-array>
+    <string-array name="pet_type">
+        <item>gordon setter</item>
+        <item>coated tulear</item>
+        <item>goldendoodle</item>
+        <item>golden retriever</item>
+        <item>great dane</item>
+        <item>great swiss mountain dog</item>
+        <item>doberman pinscher</item>
+        <item>labrador retriever</item>
+        <item>redbone coonhound</item>
+        <item>maltese</item>
+        <item>mongrel</item>
+        <item>miniature dachshund</item>
+        <item>miniature bull terrier</item>
+        <item>border collie</item>
+        <item>boston terrier</item>
+        <item>beagle</item>
+        <item>samoyed</item>
+        <item>sapsal</item>
+        <item>shetland sheepdog</item>
+        <item>shiba inu</item>
+        <item>siberian husky</item>
+        <item>american bully</item>
+        <item>yorkshire terrier</item>
+        <item>welsh corgi</item>
+        <item>japanese chin</item>
+        <item>chow chow</item>
+        <item>chihuahua</item>
+        <item>cocker spaniel</item>
+        <item>pomeranian</item>
+        <item>poodle</item>
+    </string-array>
+    <string-array name="pet_state">
+        <item>분양등록중</item>
+        <item>분실상태</item>
+        <item>입양상태</item>
+    </string-array>
+</resources>
