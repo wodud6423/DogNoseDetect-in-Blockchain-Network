@@ -4,9 +4,6 @@
 <!--프로젝트 대문 이미지-->
 ![Project Title](img/projecttitle.png)
 
-<!--프로젝트 버튼-->
- [![Readme in English][readme-eng-shield]][readme-eng-url] [![View Demo][view-demo-shield]][view-demo-url] [![Report bug][report-bug-shield]][report-bug-url] [![Request feature][request-feature-shield]][request-feature-url]
-
 # [1] About the Project
 ## 🦮블록체인을 이용한 분산형 DB로부터의 강아지 비문 조회 서비스
 
