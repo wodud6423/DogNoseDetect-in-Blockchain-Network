@@ -71,9 +71,6 @@
 
 # 3. 📊Technologies Stack
 
-### 특이점 추출 및 매칭기 & 매칭 알고리즘 성능 실제 비교
-![Project Title](img/AlgorithmAnalysis.png)
-
 ![Project Title](img/기술스택사진.png)
 
 - [FLASK](https://flask.palletsprojects.com/en/3.0.x/)
@@ -83,10 +80,13 @@
 # 4. Project Process
 
 ## 🦮비문 영상 처리부
+
 ![Project Title](img/비문영상처리설명01.png)
 
 ![Project Title](img/비문영상처리설명02.png)
 
+### 특이점 추출 및 매칭기 & 매칭 알고리즘 성능 실제 비교
+![Project Title](img/AlgorithmAnalysis.png)
 
 ## 🚪블록 체인 구현부 
 ![Project Title](img/블록체인구현설명01.png)
